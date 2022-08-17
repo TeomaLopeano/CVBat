@@ -1,0 +1,43 @@
+header img {
+    display: block;
+    margin: auto;
+}
+
+h1.titulos{
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.titulos{
+    
+    padding: 5px 0;
+    color: #005677;
+    font-family: 'Times New Roman';
+    background-color: #C4C4C4;
+    margin-bottom: 10px;
+}
+
+.datos {
+    font-style: italic;
+}
+.datos span{
+    font-weight: bold;
+}
+
+.puntos{
+    list-style: none;
+}
+.puntos span{
+    font-weight: bold;
+}
+
+footer{
+    margin-top: 180px;
+    background-color: #005677;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        font-size: 25px;
+        text-align: center;
+        color: #FFFFFF;
+
+}
