@@ -2,6 +2,9 @@ header img {
     display: block;
     margin: auto;
 }
+header {
+    background-color: #E6E6E6;
+}
 
 h1.titulos{
     text-align: center;
