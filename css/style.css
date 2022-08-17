@@ -31,8 +31,12 @@ h1.titulos{
     font-weight: bold;
 }
 
+.derecha {
+    margin-left: 80px;
+}
+
 footer{
-    margin-top: 180px;
+    margin-top: 90px;
     background-color: #005677;
         font-family: 'Times New Roman', Times, serif;
         font-weight: bolder;
